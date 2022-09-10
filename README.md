@@ -1,6 +1,9 @@
 # Lista Ligada
 ---
 
+Carlos Eduardo Campos Santana
+carlos.santana6@fatec.sp.gov.br
+
 ## Objetivos
 
 Ao concluir esta atividade você deverá ter compreendido os seguintes conceitos:
@@ -13,8 +16,8 @@ Ao concluir esta atividade você deverá ter compreendido os seguintes conceitos
 
 Faça um fork deste repositorio e realize as seguintes atividades: 
 
-- [ ] Altere a função inserirElemento para impedir que sejam inseridos valores duplicados
-- [ ] Implemente as funções buscarElemento e excluirElemento
+- [x] Altere a função inserirElemento para impedir que sejam inseridos valores duplicados
+- [x] Implemente as funções buscarElemento e excluirElemento
 
 **(use a função auxiliar posicaoElemento)**
 
